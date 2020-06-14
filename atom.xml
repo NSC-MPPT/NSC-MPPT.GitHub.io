@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nsc-mppt.github.io</id>
     <title>Newgen Studio</title>
-    <updated>2020-06-14T05:16:45.285Z</updated>
+    <updated>2020-06-14T05:19:48.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nsc-mppt.github.io"/>
     <link rel="self" href="https://nsc-mppt.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://nsc-mppt.github.io/images/avatar.png</logo>
     <icon>https://nsc-mppt.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Newgen Studio</rights>
+    <entry>
+        <title type="html"><![CDATA[我的世界故事模式PPT版本]]></title>
+        <id>https://nsc-mppt.github.io/post/pptmcs/</id>
+        <link href="https://nsc-mppt.github.io/post/pptmcs/">
+        </link>
+        <updated>2020-06-14T05:17:59.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="介绍">介绍</h1>
+<p>您可以通过此PPT完全模拟 我的世界故事模式 。<br>
+非常逼真（因为它是视频）。</p>
+<h1 id="特点">特点</h1>
+<p>体积大<br>
+高清<br>
+体验爽<br>
+速度快</p>
+<h1 id="屏幕截图">屏幕截图</h1>
+<h1 id="下载地址只提供曲奇云盘">下载地址（只提供曲奇云盘）</h1>
+<p><a href="https://quqi.gblhgk.com/s/894468/AbIVonGw9fqyBCpM">点击获取启动器</a><br>
+<a href="https://quqi.com/s/894468/rnwF7UUEhI4rxv7W">点击获取第一章-上</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tuling Studio]]></title>
         <id>https://nsc-mppt.github.io/post/tuling-studio/</id>
