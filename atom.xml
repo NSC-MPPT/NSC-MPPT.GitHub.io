@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nsc-mppt.github.io</id>
     <title>Newgen Studio</title>
-    <updated>2020-06-14T05:10:14.172Z</updated>
+    <updated>2020-06-14T05:12:56.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nsc-mppt.github.io"/>
     <link rel="self" href="https://nsc-mppt.github.io/atom.xml"/>
@@ -10,6 +10,34 @@
     <logo>https://nsc-mppt.github.io/images/avatar.png</logo>
     <icon>https://nsc-mppt.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Newgen Studio</rights>
+    <entry>
+        <title type="html"><![CDATA[虚拟机 2.0]]></title>
+        <id>https://nsc-mppt.github.io/post/visual/</id>
+        <link href="https://nsc-mppt.github.io/post/visual/">
+        </link>
+        <updated>2020-06-14T05:11:18.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="概述">概述</h1>
+<p>虚拟机是我们开发的一款PPT应用。它可以拿来装X。它界面美观、便捷易用。</p>
+<h1 id="注意事项">注意事项</h1>
+<p>如果您想原封不动地转载，请经过 汪凯 同意。<br>
+仅限 Windows 用户！<br>
+建议使用 正版 Microsoft Office 2016~365 查看本作品。<br>
+强烈不建议使用 WPS Office ！ 这可能造成本应用无法使用！</p>
+<h1 id="更新内容">更新内容</h1>
+<p>新的 UI 界面<br>
+可换壁纸！<br>
+新增 “设置”。<br>
+新增 FlyOS 系统。<br>
+细微改进和修复。</p>
+<h1 id="下载地址47mb">下载地址（47MB）</h1>
+<h2 id="曲奇网盘需登录不限速">曲奇网盘（需登录不限速）</h2>
+<p><a href="https://quqi.gblhgk.com/s/749444/DRftctx8FeccQ8Eb">点击获取</a></p>
+<h2 id="百度网盘需登录限速">百度网盘（需登录限速）</h2>
+<p>暂未上传</p>
+<h2 id="蓝奏云高速分卷">蓝奏云（高速，分卷）</h2>
+<p><a href="https://lanzous.com/ib8m2le">点击获取</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tuling PPSM 2.1.0]]></title>
         <id>https://nsc-mppt.github.io/post/tuling-ppsm-210/</id>
