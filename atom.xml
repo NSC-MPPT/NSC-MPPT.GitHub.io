@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nsc-mppt.github.io</id>
     <title>Newgen Studio</title>
-    <updated>2020-06-14T05:19:48.828Z</updated>
+    <updated>2020-06-14T05:26:40.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nsc-mppt.github.io"/>
     <link rel="self" href="https://nsc-mppt.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://nsc-mppt.github.io/images/avatar.png</logo>
     <icon>https://nsc-mppt.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Newgen Studio</rights>
+    <entry>
+        <title type="html"><![CDATA[下载 NOS 3.1.0]]></title>
+        <id>https://nsc-mppt.github.io/post/xia-zai-nos-310/</id>
+        <link href="https://nsc-mppt.github.io/post/xia-zai-nos-310/">
+        </link>
+        <updated>2020-06-14T05:23:10.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="还在找寻下载地址">还在找寻下载地址？</h1>
+<p>该系统已经停止服务。这意味着我们将不再发布更新。<br>
+依据我们的政策，它将于 2019/12/30 停止服务。<br>
+下载地址可见右侧。</p>
+<h1 id="警告">警告</h1>
+<p>该系统已经停止服务！该系统不受任何支持！Newgen Studio 将不再发布任何更新来维护。您的系统可能被恶意攻击！我们将不负任何法律责任。<br>
+我们建议您赶快升级至最新的 Tuling PPSM，以免遭受攻击。<br>
+我们将只提供下载服务，官网已经停更，可以见尾部。</p>
+<h1 id="概述">概述</h1>
+<p>Newgen OS，基于 PowerPoint 的初级操作系统。</p>
+<h1 id="屏幕截图">屏幕截图</h1>
+<p>停止服务了还要截图干嘛...</p>
+<h1 id="下载地址只提供蓝奏云">下载地址（只提供蓝奏云）</h1>
+<p><a href="https://lanzous.com/iJ3a8dnltja">点击获取</a></p>
+<h1 id="官方网站已停止更新">官方网站（已停止更新）</h1>
+<p>newgenos.sxl.cn<br>
+此网站不安全！请复制粘贴到浏览器内！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的世界故事模式PPT版本]]></title>
         <id>https://nsc-mppt.github.io/post/pptmcs/</id>
