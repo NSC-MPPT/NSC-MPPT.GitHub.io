@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nsc-mppt.github.io</id>
     <title>Newgen Studio</title>
-    <updated>2020-06-14T05:14:49.700Z</updated>
+    <updated>2020-06-14T05:16:45.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nsc-mppt.github.io"/>
     <link rel="self" href="https://nsc-mppt.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://nsc-mppt.github.io/images/avatar.png</logo>
     <icon>https://nsc-mppt.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Newgen Studio</rights>
+    <entry>
+        <title type="html"><![CDATA[Tuling Studio]]></title>
+        <id>https://nsc-mppt.github.io/post/tuling-studio/</id>
+        <link href="https://nsc-mppt.github.io/post/tuling-studio/">
+        </link>
+        <updated>2020-06-14T05:14:54.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="介绍">介绍</h1>
+<p>Tuling Studio 是我们发布的一款适用于快速开发 PPT应用 的工作室PPT程序。<br>
+快速开发程序！</p>
+<h1 id="下载地址39mb">下载地址（39MB）</h1>
+<h2 id="曲奇网盘需登录不限速">曲奇网盘（需登录不限速）</h2>
+<p>新版暂未上传。</p>
+<h2 id="百度网盘需登录限速">百度网盘（需登录限速）</h2>
+<p>作者太懒了，没有上传！</p>
+<h2 id="蓝奏云高速">蓝奏云（高速）</h2>
+<p><a href="https://www.lanzous.com/i99vs3a">点击获取</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[虚拟机 2.0]]></title>
         <id>https://nsc-mppt.github.io/post/visual/</id>
