@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nsc-mppt.github.io</id>
     <title>Newgen Studio</title>
-    <updated>2020-06-08T13:20:53.445Z</updated>
+    <updated>2020-06-14T05:10:14.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nsc-mppt.github.io"/>
     <link rel="self" href="https://nsc-mppt.github.io/atom.xml"/>
@@ -11,44 +11,48 @@
     <icon>https://nsc-mppt.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Newgen Studio</rights>
     <entry>
-        <title type="html"><![CDATA[网页正在重置！]]></title>
-        <id>https://nsc-mppt.github.io/post/wang-ye-zheng-zai-chong-zhi/</id>
-        <link href="https://nsc-mppt.github.io/post/wang-ye-zheng-zai-chong-zhi/">
+        <title type="html"><![CDATA[Tuling PPSM 2.1.0]]></title>
+        <id>https://nsc-mppt.github.io/post/tuling-ppsm-210/</id>
+        <link href="https://nsc-mppt.github.io/post/tuling-ppsm-210/">
         </link>
-        <updated>2020-06-07T03:28:51.000Z</updated>
-        <content type="html"><![CDATA[<p>请稍等！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://nsc-mppt.github.io/post/hello-gridea/</id>
-        <link href="https://nsc-mppt.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2020-06-14T05:02:45.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="概述">概述</h1>
+<p>Tuling PPSM　是我们开发的一款PPT操作系统。它可以上网、玩游戏、文本编辑、计算等。它界面美观、便捷易用。<br>
+久等了。<br>
+我们现已推出正式版，虽然还不怎么成熟。<br>
+设计也是极好的。</p>
+<h1 id="注意事项">注意事项</h1>
+<p><strong>本系统已被转让！</strong><br>
+如果您想原封不动地转载，请经过 汪凯 同意。<br>
+仅限 Windows 用户！<br>
+建议使用 正版 Microsoft Office 2016~365 查看本作品。<br>
+强烈不建议使用 WPS Office ！ 这可能造成本系统无法使用！</p>
+<h1 id="更新内容">更新内容</h1>
+<p>新的 OOBE 界面<br>
+可换壁纸！<br>
+新增 “个性化”。<br>
+新增 “线上壁纸”。<br>
+新增 用户名同步功能。<br>
+细微改进和修复。<br>
+这次没有开发繁体中文版本！</p>
+<h1 id="屏幕截图">屏幕截图</h1>
+<p><img src="https://pic.downk.cc/item/5e2a58222fb38b8c3c591f41.jpg" alt="image" loading="lazy"><br>
+<img src="https://pic.downk.cc/item/5e2a58222fb38b8c3c591f3d.png" alt="image" loading="lazy"><br>
+<img src="https://pic.downk.cc/item/5e2a58222fb38b8c3c591f43.jpg" alt="image" loading="lazy"><br>
+<img src="https://pic.downk.cc/item/5e2a58222fb38b8c3c591f43.jpg" alt="image" loading="lazy"></p>
+<h1 id="下载地址172mb">下载地址（172MB）</h1>
+<h2 id="曲奇网盘需登录不限速">曲奇网盘（需登录不限速）</h2>
+<p><a href="https://quqi.gblhgk.com/s/749444/GWnFrYK3u6lzmElS">点击获取</a></p>
+<h2 id="百度网盘需登录限速">百度网盘（需登录限速）</h2>
+<p><a href="https://pan.baidu.com/s/1ZtlDzZnLLgvIMyvdLV7PXg">点击获取</a></p>
+<blockquote>
+<p>提取码：ims9</p>
+</blockquote>
+<h2 id="蓝奏云高速">蓝奏云（高速）</h2>
+<p><a href="https://www.lanzous.com/b00z8634h">点击获取</a></p>
+<blockquote>
+<p>机智的汪凯使用了分卷压缩并添加了“.doc”后缀名，删除“.doc”的后缀名，打开后缀名为“7z.001”的后缀名文件。</p>
+</blockquote>
 ]]></content>
     </entry>
 </feed>
