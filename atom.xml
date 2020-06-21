@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nsc-mppt.github.io</id>
     <title>Newgen Studio</title>
-    <updated>2020-06-21T07:06:07.979Z</updated>
+    <updated>2020-06-21T07:14:22.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nsc-mppt.github.io"/>
     <link rel="self" href="https://nsc-mppt.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://nsc-mppt.github.io/images/avatar.png</logo>
     <icon>https://nsc-mppt.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Newgen Studio</rights>
+    <entry>
+        <title type="html"><![CDATA[[通知]基于某人发布 Tuling  NB 言论，立即下架 Tuling PPSM！]]></title>
+        <id>https://nsc-mppt.github.io/post/tong-zhi-ji-yu-mou-ren-fa-bu-tuling-nb-yan-lun-li-ji-xia-jia-tuling-ppsm/</id>
+        <link href="https://nsc-mppt.github.io/post/tong-zhi-ji-yu-mou-ren-fa-bu-tuling-nb-yan-lun-li-ji-xia-jia-tuling-ppsm/">
+        </link>
+        <updated>2020-06-21T07:13:49.000Z</updated>
+        <content type="html"><![CDATA[<p>@全体成员 基于某人发布 Tuling  NB 言论，立即下架 Tuling PPSM！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的世界故事模式PPT版本]]></title>
         <id>https://nsc-mppt.github.io/post/pptmcs/</id>
